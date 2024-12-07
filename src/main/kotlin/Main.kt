@@ -1,6 +1,6 @@
 const val nYear = 2024
-const val nDay = 6
-val day = Day6()
+const val nDay = 7
+val day = Day7()
 const val taskLink = "https://adventofcode.com/$nYear/day/$nDay"
 const val inputLink = "$taskLink/input"
 const val submitLink = "$taskLink/answer"
